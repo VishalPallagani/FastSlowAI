@@ -1,0 +1,6 @@
+/Users/vishal/virtual-environments/planert/FastDownward/builds/release/CMakeFiles/translate.dir
+/Users/vishal/virtual-environments/planert/FastDownward/builds/release/CMakeFiles/edit_cache.dir
+/Users/vishal/virtual-environments/planert/FastDownward/builds/release/CMakeFiles/rebuild_cache.dir
+/Users/vishal/virtual-environments/planert/FastDownward/builds/release/search/CMakeFiles/downward.dir
+/Users/vishal/virtual-environments/planert/FastDownward/builds/release/search/CMakeFiles/edit_cache.dir
+/Users/vishal/virtual-environments/planert/FastDownward/builds/release/search/CMakeFiles/rebuild_cache.dir
